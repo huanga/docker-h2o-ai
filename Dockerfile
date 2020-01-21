@@ -1,4 +1,4 @@
-ARG version=3.26.0.3
+ARG version=3.26.0.11
 
 FROM alpine:latest
 ARG version
